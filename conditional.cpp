@@ -58,13 +58,28 @@ int main(){
 //  }
   
 
-int a = 2;
-int b = a+1;
+// int a = 2;
+// int b = a+1;
 
-if((a=3)==9){
-    cout<<a;
+// if((a=3)==9){
+//     cout<<a;
+// }
+// else{
+//     cout<<a+1;
+// }
+
+
+//Question1 
+char ch;
+cin >>ch;
+
+if(ch >= 'a' && ch <='z'){
+    cout<<"character in smaller alphabet";
+}
+else if(ch >= 'A' && ch <= 'Z'){
+    cout<<"character in upperr alphabet";
 }
 else{
-    cout<<a+1;
+    cout<<"this is in numbers";
 }
 }
