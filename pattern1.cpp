@@ -386,15 +386,9 @@ int main(){
   //     cout<<i-m<<" ";
   //     m++;
   //   }
-    
-  //   int l = 1;
-  //   while(l<=n-i){
-  //     cout<<" "<<" ";
-  //     l++;
-  //   }
-    
   //   cout<<endl;
   //   i++;
+
   // }
   
 
