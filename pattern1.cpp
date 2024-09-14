@@ -322,6 +322,80 @@ int main(){
   // }
   
 
+
+// int i = 1;
+  // while(i<=n){
+  // int k = 1;
+  //   while(k<=i-1){
+  //     cout<<" "<<" ";
+  //     k++;
+  //   }
+
+  //   int j = 1;
+   
+  //   while(j<=n-i+1){
+  //     cout<<i+j-1<<" ";
+  //     j++;
+  //   }
+
+  //   cout<<endl;
+  //   i++;    
+  // }
+
+
+  // int i = 1;
+  // int count = 1;
+  // while(i<=n){
+  // int k = 1;
+  //   while(k<=n-i){
+  //     cout<<" "<<" ";
+  //     k++;
+  //   }
+
+  //   int j = 1;
+  
+  //   while(j<=i){
+  //     cout<<count<<" ";
+  //     j++;
+  //     count++;
+  //   }
+
+  //   cout<<endl;
+  //   i++;    
+  // }
+
+
+
+  
+  // int i = 1;
+  // while(i<=n){
+  //   int k =1;
+  //   while(k<=n-i){
+  //     cout<<" "<<" ";
+  //     k++;
+  //   }
+
+  //   int j = 1;
+  //   while(j<=i){
+  //     cout<<j<<" ";
+  //     j++;
+  //   }
+
+  //   int m = 1;
+  //   while(m<=i-1){
+  //     cout<<i-m<<" ";
+  //     m++;
+  //   }
+    
+  //   int l = 1;
+  //   while(l<=n-i){
+  //     cout<<" "<<" ";
+  //     l++;
+  //   }
+    
+  //   cout<<endl;
+  //   i++;
+  // }
   
 
 
