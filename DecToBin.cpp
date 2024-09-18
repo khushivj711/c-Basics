@@ -19,6 +19,5 @@ int main(){
 
 
     }
-
     cout<<"Answer is :" << ans <<endl;
 }
